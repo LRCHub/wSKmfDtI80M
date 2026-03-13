@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SUPER NOVA!",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T03:09:38.243096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "Bruce Haack",
+      "has_synced": false,
+      "path": "select/01_Super_Nova_Bruce_Haack.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/02_Super_Nova_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "Rocksteddy",
+      "has_synced": true,
+      "path": "select/03_Super_Nova_Rocksteddy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh Super Nova",
+      "artist": "Krish",
+      "has_synced": true,
+      "path": "select/04_Oh_Super_Nova_Krish.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Super Nova Goes Pop",
+      "artist": "Powerman 5000",
+      "has_synced": true,
+      "path": "select/05_Super_Nova_Goes_Pop_Powerman_5000.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "DiverDiva",
+      "has_synced": true,
+      "path": "select/06_Super_Nova_DiverDiva.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "Kaaris",
+      "has_synced": true,
+      "path": "select/07_Super_Nova_Kaaris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Super Nova Scotian",
+      "artist": "Classified",
+      "has_synced": false,
+      "path": "select/08_Super_Nova_Scotian_Classified.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SUPER NOVA",
+      "artist": "DiverDiva - Topic",
+      "has_synced": true,
+      "path": "select/09_SUPER_NOVA_DiverDiva_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SUPER NOVA (Off Vocal)",
+      "artist": "DiverDiva",
+      "has_synced": true,
+      "path": "select/10_SUPER_NOVA_(Off_Vocal)_DiverDiva.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "Les Caméléons",
+      "has_synced": false,
+      "path": "select/11_Super_Nova_Les_Caméléons.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "Killa Fonic",
+      "has_synced": true,
+      "path": "select/12_Super_Nova_Killa_Fonic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "l'Morphine",
+      "has_synced": true,
+      "path": "select/13_Super_Nova_l'Morphine.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SUPER NOVA REVOLU5TAR",
+      "artist": "流星隊/守沢千秋(CV.帆世雄一)、深海奏汰(CV.西山宏太朗)、南雲鉄虎(CV.中島ヨシキ)、高峯翠(CV.渡辺拓海)、仙石忍(CV.新田杏樹)",
+      "has_synced": true,
+      "path": "select/14_SUPER_NOVA_REVOLU5TAR_流星隊_守沢千秋(CV.帆世雄一)、深海奏汰(CV.西山宏太朗)、南雲鉄虎(CV.中島ヨシキ)、高峯翠(CV.渡辺拓海)、仙石忍(CV.新田杏樹).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oh Super Nova",
+      "artist": "Krish",
+      "has_synced": true,
+      "path": "select/15_Oh_Super_Nova_Krish.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Super Nova",
+      "artist": "YUKIYANAGI",
+      "has_synced": true,
+      "path": "select/16_Super_Nova_YUKIYANAGI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Got Prosperous (feat. Super Nova Juno)",
+      "artist": "P.enitente",
+      "has_synced": true,
+      "path": "select/17_I_Got_Prosperous_(feat._Super_Nova_Juno)_P.enitente.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Super Nova Scotian (Instrumental)",
+      "artist": "Classified",
+      "has_synced": false,
+      "path": "select/18_Super_Nova_Scotian_(Instrumental)_Classified.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUPER NOVA!",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_SUPER_NOVA!_SiLENT←NOiSE.txt"
+    }
+  ]
+}
